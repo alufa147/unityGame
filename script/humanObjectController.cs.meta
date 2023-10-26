@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2a8261cc2a9e5d54d8a06144da2bbe32
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tenin: {fileID: 7590956032395547977, guid: 302624f496a367e40b4f10f65c7d82e3, type: 3}
+  - customer: {fileID: 7837688230997670182, guid: 56a82c49dac00ae49ae62cf1b8476326,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
